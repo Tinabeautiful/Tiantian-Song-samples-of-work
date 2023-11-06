@@ -10,5 +10,5 @@ This folder contains work that I undertook as part of my research internship at 
 
 This code requires the following packages: ``numpy``, ``Rotation`` and ``geopy.distance``.
 
-## Practical Statistics Courses
+## Practical Statistics Coursework
 This folder contains an example of one of the coursework from my Practical Statistics Course I undertook in December 2022. This coursework explores regression and goodness-of-fit tests for insurance data using R.

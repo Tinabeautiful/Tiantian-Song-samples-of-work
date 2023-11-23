@@ -12,3 +12,6 @@ This code requires the following packages: ``numpy``, ``Rotation`` and ``geopy.d
 
 ## Practical Statistics Coursework
 This folder contains an example of one of the coursework from my Practical Statistics Course I undertook in December 2022. This coursework explores regression and goodness-of-fit tests for insurance data using R.
+
+## Fox Chases Rabbit Project
+This folder contains an example of one of the projects from my Problem Solving by Computer Course I undertook in November 2023. This project explores the dynamics between a fox and a rabbit by using differential equations modelling their positions with MATLAB.

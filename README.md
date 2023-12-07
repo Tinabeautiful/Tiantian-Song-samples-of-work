@@ -15,3 +15,6 @@ This folder contains an example of one of the coursework from my Practical Stati
 
 ## Fox Chases Rabbit Project
 This folder contains an example of one of the projects from my Problem Solving by Computer Course I undertook in November 2023. This project explores the dynamics between a fox and a rabbit by using differential equations modelling their positions with MATLAB.
+
+## Tomographic Reconstruction
+This folder contains work that I am currently doing as my undergraduate dissertation. It consists of the code of the plots of L2 Norms that I developed in Python.

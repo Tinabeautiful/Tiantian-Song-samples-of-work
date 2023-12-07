@@ -18,3 +18,5 @@ This folder contains an example of one of the projects from my Problem Solving b
 
 ## Tomographic Reconstruction
 This folder contains work that I am currently doing as my undergraduate dissertation. It consists of the code of the plots of L2 Norms that I developed in Python.
+
+This code requires the following packages: AcquisitionGeometry, L2NormSquared, BlockFunction, MixedL21Norm, IndicatorBox, GradientOperator, BlockOperator, PDHG, ProjectionOperator, FBP, TomoPhantom, show2D, show_geometry, noise, matplotlib.pyplot and numpy.
